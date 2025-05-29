@@ -1,0 +1,6 @@
+//not push in github
+
+/node_modules
+
+/dist 
+/.parcel-cache
