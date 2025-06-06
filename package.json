@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "this is namaste react by Rajeshwari ",
   "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
     "test": "jest"
+    
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/rajeshwarikondian/myreactapp_namaste-react"
   },
   "keywords": [
     "raj"
