@@ -18,3 +18,30 @@
 - HTTPs
 - Tree Shaking - remove unused code for you  
 -  Different dev and prod bundles
+
+
+
+
+
+# SnapEats restaurant :-
+/**
+ * Header
+ * - logo
+ * - Nav Items
+ * Body
+ * - Search Bar
+ * - Restaurant container
+ * -  Restaurant card
+ *    - Img
+ *    - name of res, star rating ,cuisine, delivery time
+ * Footer
+ * - Copyright
+ * - Links
+ * - Address
+ * - Contact
+ */
+
+ #  React Hooks 
+    (normal js utility functions)
+ - useState() - superpowerful state variable in react
+ - useEffect()
